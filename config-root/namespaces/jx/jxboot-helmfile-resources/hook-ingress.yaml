@@ -16,4 +16,4 @@ spec:
               serviceName: hook
               servicePort: 80
             path: "/hook"
-      host: hook-jx.jenkins.gasparbarancelli.com
+      host: hook-jx.localhost

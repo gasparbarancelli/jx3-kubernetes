@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - gasparbarancelli/jx3-kubernetes
-      target_url: http://dashboard-jx.jenkins.gasparbarancelli.com
+      target_url: http://dashboard-jx.localhost
 kind: ConfigMap
 metadata:
   creationTimestamp: null

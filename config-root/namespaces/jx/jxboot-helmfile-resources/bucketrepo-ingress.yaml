@@ -16,4 +16,4 @@ spec:
               serviceName: bucketrepo
               servicePort: 80
             path: "/"
-      host: bucketrepo-jx.jenkins.gasparbarancelli.com
+      host: bucketrepo-jx.localhost

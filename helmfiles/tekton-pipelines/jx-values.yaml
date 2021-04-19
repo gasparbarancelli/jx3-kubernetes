@@ -38,7 +38,7 @@ jxRequirements:
   - key: staging
   - key: production
   ingress:
-    domain: jenkins.gasparbarancelli.com
+    domain: localhost
     externalDNS: false
     kind: ingress
     namespaceSubDomain: -tekton-pipelines.

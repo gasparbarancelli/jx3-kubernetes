@@ -17,7 +17,7 @@ metadata:
   namespace: jx
 spec:
   rules:
-    - host: dashboard-jx.jenkins.gasparbarancelli.com
+    - host: dashboard-jx.localhost
       http:
         paths:
           - backend:
