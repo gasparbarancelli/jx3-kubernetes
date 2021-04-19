@@ -22,7 +22,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: localhost
+    domain: jenkins.gasparbarancelli.com
     externalDNS: false
     kind: ingress
     namespaceSubDomain: -jx.
